@@ -1,6 +1,7 @@
-# KitPvP Core - Recode Edition
+# KitPvP Core - Recode Edition by Gabryx412-coder
 
-A fully re-coded and enhanced KitPvP plugin for Minecraft servers. This project is based on the original (unfinished) core developed by damt for RefineDevelopment, now open-sourced and fully reworked to meet modern standards and performance expectations.
+A fully re-coded and enhanced KitPvP plugin for Minecraft servers, developed and maintained by **Gabryx412-coder**.  
+This project revives and modernizes an old, unfinished core, bringing performance, flexibility, and a clean architecture.
 
 ---
 
@@ -17,34 +18,37 @@ A fully re-coded and enhanced KitPvP plugin for Minecraft servers. This project 
 
 ## 📦 Project Structure
 
-The plugin has been reorganized for modularity and maintainability. Each system (kits, profiles, utilities, etc.) is structured into its own package, making it easy to contribute or customize.
+The plugin has been fully reorganized by **Gabryx412-coder** to promote modularity and ease of use.  
+Each system (kits, profiles, utilities, etc.) is separated into its own package, making it clean and developer-friendly.
 
 ---
 
-## 📄 Information
+## 📄 Background
 
-This plugin was originally an unfinished KitPvP core made by **damt** for **RefineDevelopment**. After damt left the community, this project was abandoned. I've decided to fully recode and open source the plugin to help others and keep the project alive.
+This project is based on an **unfinished KitPvP core** initially created by **damt** for **RefineDevelopment**.  
+After damt left the community and the project was abandoned, **Gabryx412-coder** decided to recode it completely and open-source the result for others to use and improve.
 
-> **Please** credit the original authors where due.  
-> ❌ Do **not** re-sell or redistribute this project as your own work.
+> Please **credit the original authors** where due.  
+> ❌ **Do not** re-sell or redistribute this project claiming it as your own.
 
 ---
 
 ## 💻 Usage
 
-- Requires **Java 8+** (or newer based on your server setup)
-- Designed for **Spigot/Paper** forks
-- Drop the JAR into your `/plugins` folder and restart the server
+- Requires **Java 8+** (or newer depending on your server environment)
+- Built for **Spigot** and **Paper** forks
+- To install: place the compiled JAR in your `/plugins` folder and restart the server
 
 ---
 
 ## 🤝 Contributions
 
-Feel free to open issues or pull requests. Improvements and new features are welcome!
+Suggestions, improvements, and pull requests are always welcome!  
+Open an issue if you find a bug or want to request a feature.
 
 ---
 
 ## 📜 License
 
-This project is open-sourced for learning and community use.  
-Not for commercial redistribution or resale.
+This project is open-sourced under a permissive license for community use and learning purposes.  
+**Not for commercial resale or rebranding.**
